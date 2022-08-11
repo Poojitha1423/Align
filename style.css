@@ -1,0 +1,13 @@
+#main {
+    width: 250;
+    height: 330;
+    border: 2px;
+    display:flex;
+    align-items: stretch;
+}
+#main div {
+flex: 1;
+border: 2px;
+display: flex;
+align-items: center;
+}
